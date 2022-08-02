@@ -1,6 +1,7 @@
 {
   "name": "technicolor-react-portfolio",
   "version": "0.1.0",
+  "proxy": "http://localhost:3000/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -34,5 +35,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "react portfolio made with react",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lev8947/technicolor-react-portfolio.git"
+  },
+  "author": "Simon Levey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lev8947/technicolor-react-portfolio/issues"
+  },
+  "homepage": "https://github.com/lev8947/technicolor-react-portfolio#readme"
 }
